@@ -1,0 +1,2 @@
+股票分析
+常见一个股票名称，例如bilibili文件夹，文件夹下创建一个index.html，修改html中图片名称，例如叫bilibili.jpg,上传该jpg到当前路径下即可
